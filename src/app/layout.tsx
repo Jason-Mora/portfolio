@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "Jason Mora – Web Developer",
     description:
       "Portfolio di Jason Mora, sviluppatore web specializzato in Next.js e React.",
-    url: "https://tuodominio.com",
+    url: "https://jasonmora.netlify.app",
     siteName: "Jason Mora Portfolio",
     images: [
       {
